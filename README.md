@@ -1,1 +1,1 @@
-# .github
+Public Repos for AQUA Wallet
